@@ -1,16 +1,11 @@
 # dice_app
 
-A new Flutter project.
+A Basic Flutter App that stimulates the the throws of two dices
+<br/>
+uses dart/math's random function to generate random dice instance each time when pressed
+<br/>
+Can be used to resolve small fight between friends like who's gonna take the trash out etc
+<br/>
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![WhatsApp Image 2022-07-24 at 1 48 42 PM](https://user-images.githubusercontent.com/64357406/180638577-0a9ed535-d383-4ff4-802b-e7423cf5ec8c.jpeg)
+![WhatsApp Image 2022-07-24 at 1 48 24 PM](https://user-images.githubusercontent.com/64357406/180638584-1f853998-5d30-4687-9446-d027277011c3.jpeg)
